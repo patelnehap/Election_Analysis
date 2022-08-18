@@ -12,10 +12,10 @@ They were able to get the following results :
 
 Total number of Votes cast : 369,711
 
-Votes (total and percent) cast by county:
+**Votes (total and percent) cast by county:
 Jefferson: 10.5% (38,855)
 Denver: 82.8% (306,055)
-Arapahoe: 6.7% (24,801)
+Arapahoe: 6.7% (24,801)**
 -------------------------
 Largest County Turnover: Denver
 
@@ -38,6 +38,7 @@ Tom and Seth were delighted to present their analysis to the election commission
 They also let the board know that they can use the same script to run the analysis for different counties. They gave the board two options to modify the script:
 
 1.Read a different csv file and it will present the data for the counties listed in the csv(assumption the column headers are the same order as the current one)
+
 2.Replace the data in the current csv with election data from other regions and it will display the data accordingly.
 
 The board was impressed at how easy it was to run the script to get the analysis written to a text file.
